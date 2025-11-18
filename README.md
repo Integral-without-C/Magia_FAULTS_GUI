@@ -1,2 +1,4 @@
-# Magia_FAULTS_GUI
-为Fullprof中的FAULTS软件制作了简单的GUI界面，可以读取flts文件，快速修改flts文件并直接绘图。但flts文件的每一层信息构建构建需要用户自行完成。
+注意：
+请确保flts文件中的
+!layer 4 to layer 7
+类型的注释字段存在，否则transition字段识别异常。
