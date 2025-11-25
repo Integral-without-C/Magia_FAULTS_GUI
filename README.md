@@ -55,6 +55,6 @@ python Magia_FAULTS_GUI.py
 - 解析器对 .flts 文件格式有基本假设（常见段落与关键字）；对非常规或极为自由的格式可能解析不完全。
 
 ## 许可
-MIT，知识应该共享而不是商用。
+MIT
 
 欢迎在 GitHub 上提交 issue 与 PR。  
